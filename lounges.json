@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-03-01T11:06:28.4371447Z",
   "source": "airports.tsx",
   "lounges": [
@@ -852,7 +852,75 @@
       "lounge": "IASS EXECUTIVE LOUNGE 2",
       "prefecture": "千葉県",
       "category": "card",
-      "url": "https://www.iass.co.jp/lounge/narita.html",
+      "url": "https://www.iass.co.jp/lounge/narita2.html",
+      "aliases": [
+        "成田"
+      ],
+      "issuers": [
+        "diners",
+        "vja",
+        "amex",
+        "jcb",
+        "uc",
+        "mufg_nicos",
+        "dc",
+        "orico",
+        "au_fs",
+        "docomo",
+        "paypay",
+        "dカード",
+        "PayPayカード"
+      ]
+    },
+    {
+      "id": "成田国際空港（第1）：希和 -NOA-",
+      "airportName": "成田国際",
+      "displayName": "成田国際空港（第1）",
+      "lounge": "希和 -NOA-",
+      "prefecture": "千葉県",
+      "category": "card",
+      "url": "https://www.iass.co.jp/lounge/narita2.html",
+      "aliases": [
+        "成田"
+      ],
+      "issuers": [
+        "diners",
+        "vja",
+        "amex",
+        "jcb",
+        "uc",
+        "mufg_nicos",
+        "dc",
+        "orico",
+        "au_fs",
+        "docomo",
+        "paypay",
+        "life",
+        "toyota_finance",
+        "rakuten",
+        "epos",
+        "aeon",
+        "micard",
+        "aplus",
+        "jaccs",
+        "ocs",
+        "dragonpass",
+        "saison",
+        "priority_pass",
+        "pocket",
+        "dカード",
+        "au PAYカード",
+        "PayPayカード"
+      ]
+    },
+    {
+      "id": "成田国際空港（第2）：虚空 -KoCoo-",
+      "airportName": "成田国際",
+      "displayName": "成田国際空港（第2）",
+      "lounge": "虚空 -KoCoo-",
+      "prefecture": "千葉県",
+      "category": "card",
+      "url": "https://www.iass.co.jp/lounge/narita2.html#kocoo",
       "aliases": [
         "成田"
       ],
