@@ -24,12 +24,10 @@
         "mufg_nicos",
         "dc",
         "micard",
-        "docomo",
         "pocket",
-        "au_fs",
         "saison",
-        "dカード",
-        "au PAYカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -57,12 +55,9 @@
         "jaccs",
         "aeon",
         "pocket",
-        "au_fs",
-        "docomo",
         "paypay",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -90,12 +85,9 @@
         "jaccs",
         "aeon",
         "pocket",
-        "au_fs",
-        "docomo",
         "paypay",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -116,12 +108,9 @@
         "micard",
         "pocket",
         "orico",
-        "docomo",
         "paypay",
-        "au_fs",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -147,14 +136,11 @@
         "orico",
         "pocket",
         "aplus",
-        "docomo",
-        "au_fs",
         "paypay",
         "mufg_nicos",
         "dc",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -178,13 +164,10 @@
         "rakuten",
         "micard",
         "orico",
-        "docomo",
-        "au_fs",
         "paypay",
         "aplus",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -208,13 +191,10 @@
         "rakuten",
         "jaccs",
         "micard",
-        "docomo",
-        "au_fs",
         "paypay",
         "aplus",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -238,12 +218,9 @@
         "micard",
         "life",
         "aplus",
-        "au_fs",
         "paypay",
-        "docomo",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -268,12 +245,9 @@
         "life",
         "orico",
         "aplus",
-        "au_fs",
-        "docomo",
         "paypay",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -288,33 +262,13 @@
         "成田"
       ],
       "issuers": [
-        "diners",
-        "vja",
-        "amex",
-        "jcb",
-        "uc",
-        "mufg_nicos",
-        "dc",
-        "orico",
-        "au_fs",
-        "docomo",
-        "paypay",
-        "life",
-        "toyota_finance",
-        "rakuten",
-        "epos",
-        "aeon",
-        "micard",
-        "aplus",
-        "jaccs",
-        "ocs",
-        "dragonpass",
         "saison",
+        "uc",
+        "aplus",
+        "diners",
+        "dragonpass",
         "priority_pass",
-        "pocket",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "Priority Pass"
       ]
     },
     {
@@ -337,8 +291,6 @@
         "mufg_nicos",
         "dc",
         "orico",
-        "au_fs",
-        "docomo",
         "paypay",
         "life",
         "toyota_finance",
@@ -353,9 +305,8 @@
         "saison",
         "priority_pass",
         "pocket",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -378,8 +329,6 @@
         "mufg_nicos",
         "dc",
         "orico",
-        "au_fs",
-        "docomo",
         "paypay",
         "life",
         "toyota_finance",
@@ -394,9 +343,8 @@
         "saison",
         "priority_pass",
         "pocket",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -419,8 +367,6 @@
         "mufg_nicos",
         "dc",
         "orico",
-        "au_fs",
-        "docomo",
         "paypay",
         "life",
         "toyota_finance",
@@ -435,9 +381,8 @@
         "saison",
         "priority_pass",
         "pocket",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -460,8 +405,6 @@
         "mufg_nicos",
         "dc",
         "orico",
-        "au_fs",
-        "docomo",
         "paypay",
         "life",
         "toyota_finance",
@@ -476,9 +419,8 @@
         "saison",
         "priority_pass",
         "pocket",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -501,8 +443,6 @@
         "mufg_nicos",
         "dc",
         "orico",
-        "au_fs",
-        "docomo",
         "paypay",
         "life",
         "toyota_finance",
@@ -517,9 +457,8 @@
         "saison",
         "priority_pass",
         "pocket",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -535,9 +474,7 @@
       ],
       "issuers": [
         "amex",
-        "au_fs",
         "dc",
-        "docomo",
         "diners",
         "epos",
         "jaccs",
@@ -548,8 +485,8 @@
         "toyota_finance",
         "uc",
         "vja",
-        "dカード",
-        "au PAYカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -586,10 +523,8 @@
         "jaccs",
         "orico",
         "micard",
-        "docomo",
-        "au_fs",
-        "dカード",
-        "au PAYカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -614,8 +549,7 @@
         "amex",
         "saison",
         "rakuten",
-        "docomo",
-        "dカード"
+        "dcard"
       ]
     },
     {
@@ -642,8 +576,7 @@
         "jaccs",
         "epos",
         "amex",
-        "au_fs",
-        "au PAYカード"
+        "auPAY"
       ]
     },
     {
@@ -667,14 +600,11 @@
         "orico",
         "rakuten",
         "diners",
-        "docomo",
-        "au_fs",
         "paypay",
         "saison",
         "aplus",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -698,15 +628,12 @@
         "orico",
         "rakuten",
         "diners",
-        "docomo",
-        "au_fs",
         "paypay",
         "saison",
         "aplus",
-        "ビューカード",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "view",
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -731,14 +658,11 @@
         "orico",
         "aplus",
         "saison",
-        "docomo",
-        "au_fs",
         "rakuten",
         "diners",
         "paypay",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -772,12 +696,9 @@
         "orico",
         "aeon",
         "pocket",
-        "docomo",
         "paypay",
-        "au_fs",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -794,25 +715,19 @@
       ],
       "issuers": [
         "vja",
+        "diners",
         "jcb",
         "mufg_nicos",
         "dc",
         "uc",
         "saison",
-        "life",
         "toyota_finance",
-        "epos",
-        "micard",
-        "jaccs",
-        "rakuten",
-        "pocket",
         "orico",
-        "docomo",
+        "rakuten",
+        "aplus",
         "paypay",
-        "amex",
-        "diners",
-        "dカード",
-        "PayPayカード"
+        "dcard",
+        "priority_pass"
       ]
     },
     {
@@ -839,10 +754,9 @@
         "orico",
         "rakuten",
         "aplus",
-        "docomo",
         "paypay",
-        "dカード",
-        "PayPayカード"
+        "dcard",
+        "priority_pass"
       ]
     },
     {
@@ -857,19 +771,12 @@
         "成田"
       ],
       "issuers": [
-        "diners",
-        "vja",
-        "amex",
-        "jcb",
+        "saison",
         "uc",
-        "mufg_nicos",
-        "dc",
-        "orico",
-        "au_fs",
-        "docomo",
-        "paypay",
-        "dカード",
-        "PayPayカード"
+        "aplus",
+        "diners",
+        "dragonpass",
+        "priority_pass"
       ]
     },
     {
@@ -884,33 +791,11 @@
         "成田"
       ],
       "issuers": [
-        "diners",
-        "vja",
-        "amex",
-        "jcb",
-        "uc",
-        "mufg_nicos",
-        "dc",
-        "orico",
-        "au_fs",
-        "docomo",
-        "paypay",
-        "life",
-        "toyota_finance",
-        "rakuten",
-        "epos",
-        "aeon",
-        "micard",
-        "aplus",
-        "jaccs",
-        "ocs",
-        "dragonpass",
         "saison",
-        "priority_pass",
-        "pocket",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "uc",
+        "aplus",
+        "diners",
+        "priority_pass"
       ]
     },
     {
@@ -925,19 +810,12 @@
         "成田"
       ],
       "issuers": [
-        "diners",
-        "vja",
-        "amex",
-        "jcb",
+        "saison",
         "uc",
-        "mufg_nicos",
-        "dc",
-        "orico",
-        "au_fs",
-        "docomo",
-        "paypay",
-        "dカード",
-        "PayPayカード"
+        "aplus",
+        "diners",
+        "priority_pass",
+        "dragonpass"
       ]
     },
     {
@@ -962,13 +840,11 @@
         "aplus",
         "micard",
         "orico",
-        "docomo",
-        "au_fs",
         "paypay",
+        "priority_pass",
         "saison",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -998,11 +874,8 @@
         "jaccs",
         "life",
         "paypay",
-        "docomo",
-        "au_fs",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1030,14 +903,11 @@
         "aplus",
         "micard",
         "orico",
-        "docomo",
-        "au_fs",
         "paypay",
         "saison",
-        "ビューカード",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "view",
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1061,17 +931,14 @@
         "rakuten",
         "uc",
         "saison",
-        "ビューカード",
+        "view",
         "micard",
         "orico",
         "aplus",
         "jaccs",
-        "docomo",
         "paypay",
-        "au_fs",
-        "dカード",
-        "PayPayカード",
-        "au PAYカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1101,13 +968,11 @@
         "jaccs",
         "micard",
         "orico",
-        "docomo",
         "paypay",
         "saison",
         "priority_pass",
         "aplus",
-        "dカード",
-        "PayPayカード"
+        "dcard"
       ]
     },
     {
@@ -1136,14 +1001,11 @@
         "uc",
         "saison",
         "orico",
-        "docomo",
-        "au_fs",
         "paypay",
         "aplus",
         "ucs",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1166,15 +1028,12 @@
         "rakuten",
         "vja",
         "uc",
-        "docomo",
         "jaccs",
         "saison",
         "paypay",
-        "au_fs",
         "aplus",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1203,13 +1062,10 @@
         "epos",
         "paypay",
         "aplus",
-        "au_fs",
         "pocket",
-        "docomo",
         "saison",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1238,13 +1094,10 @@
         "epos",
         "paypay",
         "aplus",
-        "au_fs",
         "pocket",
-        "docomo",
         "saison",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1265,7 +1118,6 @@
         "mastercard",
         "jaccs",
         "uc",
-        "au_fs",
         "dc",
         "orico",
         "toyota_finance",
@@ -1273,10 +1125,8 @@
         "nicos",
         "micard",
         "rakuten",
-        "docomo",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1297,7 +1147,6 @@
         "mastercard",
         "jaccs",
         "uc",
-        "au_fs",
         "dc",
         "orico",
         "toyota_finance",
@@ -1305,10 +1154,8 @@
         "nicos",
         "micard",
         "rakuten",
-        "docomo",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード",
+        "dcard",
+        "auPAY",
         "life"
       ]
     },
@@ -1341,14 +1188,11 @@
         "ocs",
         "aeon",
         "pocket",
-        "docomo",
-        "au_fs",
         "paypay",
         "dragonpass",
         "starflyer",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1375,14 +1219,11 @@
         "uc",
         "ocs",
         "pocket",
-        "docomo",
-        "au_fs",
         "paypay",
         "dragonpass",
         "starflyer",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1413,14 +1254,11 @@
         "uc",
         "aeon",
         "pocket",
-        "docomo",
-        "au_fs",
         "paypay",
         "dragonpass",
         "plaza_premium",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1446,13 +1284,10 @@
         "micard",
         "orico",
         "pocket",
-        "docomo",
         "paypay",
         "saison",
-        "au_fs",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1477,10 +1312,8 @@
         "micard",
         "aplus",
         "ucs",
-        "docomo",
         "paypay",
-        "dカード",
-        "PayPayカード"
+        "dcard"
       ]
     },
     {
@@ -1509,14 +1342,11 @@
         "micard",
         "vja",
         "pocket",
-        "docomo",
         "paypay",
         "dragonpass",
-        "au_fs",
         "mdc",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1540,16 +1370,13 @@
         "toyota_finance",
         "epos",
         "aplus",
-        "docomo",
         "pocket",
-        "au_fs",
         "paypay",
         "micard",
         "saison",
         "mdc",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1578,12 +1405,9 @@
         "micard",
         "aplus",
         "pocket",
-        "docomo",
-        "au_fs",
         "paypay",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1605,16 +1429,13 @@
         "life",
         "orico",
         "uc",
-        "au_fs",
         "aplus",
         "diners",
         "jaccs",
         "rakuten",
-        "docomo",
         "saison",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1644,13 +1465,10 @@
         "micard",
         "aplus",
         "pocket",
-        "docomo",
-        "au_fs",
         "paypay",
         "dragonpass",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1682,12 +1500,9 @@
         "aeon",
         "pocket",
         "dragonpass",
-        "au_fs",
-        "docomo",
         "paypay",
-        "dカード",
-        "au PAYカード",
-        "PayPayカード"
+        "dcard",
+        "auPAY"
       ]
     },
     {
@@ -1942,9 +1757,6 @@
       "url": "https://my.prioritypass.com/lounges/japan/tokyo-haneda-intl/hnd10-tiat-lounge",
       "aliases": [
         "羽田"
-      ],
-      "issuers": [
-        "pending"
       ]
     },
     {
