@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-03-01T11:06:28.4371447Z",
+  "version": 4,
+  "updatedAt": "2026-04-11T00:00:00.000Z",
   "source": "airports.tsx",
   "lounges": [
     {
@@ -490,13 +490,109 @@
       ]
     },
     {
-      "id": "羽田空港（第3）：SKY LOUNGE SOUTH",
+      "id": "羽田空港（第1）：POWER LOUNGE CENTRAL",
       "airportName": "東京国際",
-      "displayName": "羽田空港（第3）",
-      "lounge": "SKY LOUNGE SOUTH",
+      "displayName": "羽田空港（第1）",
+      "lounge": "POWER LOUNGE CENTRAL",
       "prefecture": "東京都",
       "category": "prioritypass",
-      "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd12-power-lounge-central",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第1）：POWER LOUNGE NORTH",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第1）",
+      "lounge": "POWER LOUNGE NORTH",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd11-power-lounge-north",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第1）：POWER LOUNGE SOUTH",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第1）",
+      "lounge": "POWER LOUNGE SOUTH",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd15-power-lounge-south",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第2）：AIRPORT LOUNGE SOUTH",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第2）",
+      "lounge": "AIRPORT LOUNGE SOUTH",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd13-airport-lounge-south",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第2）：POWER LOUNGE CENTRAL",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第2）",
+      "lounge": "POWER LOUNGE CENTRAL",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd16-power-lounge-central",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第2）：POWER LOUNGE NORTH",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第2）",
+      "lounge": "POWER LOUNGE NORTH",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd14-power-lounge-north",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第2）：Power Lounge Premium",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第2）",
+      "lounge": "Power Lounge Premium",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd20-power-lounge-premium",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第3）：Sky Lounge South",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第3）",
+      "lounge": "Sky Lounge South",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd18-sky-lounge-south",
+      "aliases": [
+        "羽田"
+      ]
+    },
+    {
+      "id": "羽田空港（第3）：TIAT Lounge",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第3）",
+      "lounge": "TIAT Lounge",
+      "prefecture": "東京都",
+      "category": "prioritypass",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/haneda/hnd10-tiat-lounge",
       "aliases": [
         "羽田"
       ]
@@ -696,7 +792,7 @@
         "orico",
         "aeon",
         "pocket",
-        "paypay",                                           
+        "paypay",
         "dcard",
         "auPAY"
       ]
@@ -766,7 +862,7 @@
       "lounge": "IASS EXECUTIVE LOUNGE 2",
       "prefecture": "千葉県",
       "category": "card",
-      "url": "https://www.iass.co.jp/lounge/narita2.html",
+      "url": "https://www.iass.co.jp/lounge/narita.html#lounge2",
       "aliases": [
         "成田"
       ],
@@ -1233,7 +1329,7 @@
       "lounge": "ラウンジTIMEインターナショナル",
       "prefecture": "福岡県",
       "category": "card",
-      "url": "https://www.fukuoka-airport.jp/service/card-lounge01.html",
+      "url": "https://www.fukuoka-airport.jp/service/card-lounge02.html",
       "issuers": [
         "amex",
         "jcb",
@@ -1512,7 +1608,7 @@
       "lounge": "Airport Lounge",
       "prefecture": "青森県",
       "category": "prioritypass",
-      "url": "https://www.aomori-airport.co.jp/facility/lounge"
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/aomori/aoj2-airport-lounge"
     },
     {
       "id": "福岡空港：Lounge Fukuoka",
@@ -1521,7 +1617,7 @@
       "lounge": "Lounge Fukuoka",
       "prefecture": "福岡県",
       "category": "prioritypass",
-      "url": "https://www.fukuoka-airport.jp/service/airline-lounge05.html"
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/fukuoka-itazuke-air-base/fuk3-lounge-fukuoka"
     },
     {
       "id": "福岡空港：Korean Air Lounge",
@@ -1530,7 +1626,7 @@
       "lounge": "Korean Air Lounge",
       "prefecture": "福岡県",
       "category": "prioritypass",
-      "url": "https://www.fukuoka-airport.jp/service/airline-lounge04.html"
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/fukuoka-itazuke-air-base/fuk-korean-air-lounge"
     },
     {
       "id": "中部国際空港セントレア：Korean Air Lounge",
@@ -1539,7 +1635,7 @@
       "lounge": "Korean Air Lounge",
       "prefecture": "愛知県",
       "category": "prioritypass",
-      "url": "https://www.centrair.jp/service/lounge/kal.html",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/chubu-centrair-international/ngo-korean-air-lounge",
       "aliases": [
         "中部",
         "セントレア"
@@ -1552,7 +1648,7 @@
       "lounge": "Plaza Premium Lounge",
       "prefecture": "愛知県",
       "category": "prioritypass",
-      "url": "https://www.centrair.jp/service/lounge/plaza_premium_lounge.html",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/chubu-centrair-international/ngo10-plaza-premium-lounge",
       "aliases": [
         "中部",
         "セントレア"
@@ -1565,7 +1661,7 @@
       "lounge": "The Coral Finest Business Class Lounge",
       "prefecture": "愛知県",
       "category": "prioritypass",
-      "url": "https://my.prioritypass.com/ja-JP/lounges/japan/nagoya-central-japan-intl/ngo12-the-coral-finest-business-class-lounge",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/chubu-centrair-international/ngo12-the-coral-finest-business-class-lounge",
       "aliases": [
         "中部",
         "セントレア"
@@ -1578,7 +1674,7 @@
       "lounge": "KUTSUROGI-DOKORO",
       "prefecture": "愛知県",
       "category": "prioritypass",
-      "url": "https://my.prioritypass.com/ja-JP/lounges/japan/chubu-centrair-international/ngo9s-kutsurogi-dokoro",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/chubu-centrair-international/ngo9s-kutsurogi-dokoro",
       "aliases": [
         "中部",
         "セントレア"
@@ -1591,22 +1687,10 @@
       "lounge": "Airport Cafe Lounge NODOKA",
       "prefecture": "大阪府",
       "category": "prioritypass",
-      "url": "https://www.kansai-airport.or.jp/service/lounge/credit-card",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/kansai-international/kix12-airport-cafe-lounge-nodoka",
       "aliases": [
         "関西",
         "関空"
-      ]
-    },
-    {
-      "id": "大阪国際空港（伊丹）：Osaka Airport Winery",
-      "airportName": "大阪国際",
-      "displayName": "大阪国際空港（伊丹）",
-      "lounge": "Osaka Airport Winery",
-      "prefecture": "大阪府",
-      "category": "prioritypass",
-      "url": "https://my.prioritypass.com/ja-JP/lounges/japan/osaka-itami-i-intl/itm2d-osaka-airport-winery",
-      "aliases": [
-        "伊丹"
       ]
     },
     {
@@ -1616,7 +1700,7 @@
       "lounge": "Premium Lounge Saganogara",
       "prefecture": "佐賀県",
       "category": "prioritypass",
-      "url": "https://saga-ab.jp/furniture_service/lounge/"
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/saga/hsg-premium-lounge-saganogara"
     },
     {
       "id": "新千歳空港：Cafe Sky Library",
@@ -1625,7 +1709,7 @@
       "lounge": "Cafe Sky Library",
       "prefecture": "北海道",
       "category": "prioritypass",
-      "url": "https://www.hokkaido-airports.com/ja/new-chitose/service/waitingroom-lounge/inter-lounge/"
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/sapporo-new-chitose/cts3-cafe-sky-library"
     },
     {
       "id": "米子空港：Lounge Daisen",
@@ -1634,7 +1718,7 @@
       "lounge": "Lounge Daisen",
       "prefecture": "鳥取県",
       "category": "prioritypass",
-      "url": "https://www.yonago-air.com/shop/lounge-daisen",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/miho-yonago/ygj-lounge-daisen",
       "aliases": [
         "美保"
       ]
@@ -1646,7 +1730,7 @@
       "lounge": "I.A.S.S Superior Lounge -NOA-",
       "prefecture": "千葉県",
       "category": "prioritypass",
-      "url": "https://my.prioritypass.com/it-IT/lounges/japan/narita-international/nrt12-i-a-s-s-superior-lounge-noa",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/narita-international/nrt12-i-a-s-s-superior-lounge-noa",
       "aliases": [
         "成田"
       ]
@@ -1670,19 +1754,19 @@
       "lounge": "Executive Lounge 1",
       "prefecture": "千葉県",
       "category": "prioritypass",
-      "url": "https://my.prioritypass.com/it-IT/lounges/japan/narita-international/tok-executive-lounge-1",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/narita-international/tok-executive-lounge-1",
       "aliases": [
         "成田"
       ]
     },
     {
-      "id": "成田国際空港：Executive Lounge 2",
+      "id": "成田国際空港：EXECUTIVE LOUNGE 2",
       "airportName": "成田国際",
       "displayName": "成田国際空港",
-      "lounge": "Executive Lounge 2",
+      "lounge": "EXECUTIVE LOUNGE 2",
       "prefecture": "千葉県",
       "category": "prioritypass",
-      "url": "https://my.prioritypass.com/en-GB/lounges/japan/narita-international/tyo-executive-lounge-2",
+      "url": "https://www.prioritypass.com/ja-JP/lounges/japan/narita-international/tyo-executive-lounge-2",
       "aliases": [
         "成田"
       ]
@@ -1697,66 +1781,6 @@
       "url": "https://www.prioritypass.com/ja-JP/lounges/japan/narita-international/nrt11-9h-nine-hours-narita-airport",
       "aliases": [
         "成田"
-      ]
-    },
-    {
-      "id": "羽田空港（第1）：POWER LOUNGE CENTRAL",
-      "airportName": "東京国際",
-      "displayName": "羽田空港（第1）",
-      "lounge": "POWER LOUNGE CENTRAL",
-      "prefecture": "東京都",
-      "category": "prioritypass",
-      "url": "https://my.prioritypass.com/lounges/japan/tokyo-haneda-intl/hnd12-power-lounge-central",
-      "aliases": [
-        "羽田"
-      ]
-    },
-    {
-      "id": "羽田空港（第1）：POWER LOUNGE NORTH",
-      "airportName": "東京国際",
-      "displayName": "羽田空港（第1）",
-      "lounge": "POWER LOUNGE NORTH",
-      "prefecture": "東京都",
-      "category": "prioritypass",
-      "url": "https://my.prioritypass.com/de/lounges/japan/tokyo-haneda-intl/hnd11-power-lounge-north",
-      "aliases": [
-        "羽田"
-      ]
-    },
-    {
-      "id": "羽田空港（第1）：POWER LOUNGE SOUTH",
-      "airportName": "東京国際",
-      "displayName": "羽田空港（第1）",
-      "lounge": "POWER LOUNGE SOUTH",
-      "prefecture": "東京都",
-      "category": "prioritypass",
-      "url": "https://my.prioritypass.com/nl/lounges/japan/tokyo-haneda-intl/hnd15-power-lounge-south",
-      "aliases": [
-        "羽田"
-      ]
-    },
-    {
-      "id": "羽田空港（第2）：Power Lounge Premium",
-      "airportName": "東京国際",
-      "displayName": "羽田空港（第2）",
-      "lounge": "Power Lounge Premium",
-      "prefecture": "東京都",
-      "category": "prioritypass",
-      "url": "https://my.prioritypass.com/lounges/japan/tokyo-haneda-intl/hnd20-power-lounge-premium",
-      "aliases": [
-        "羽田"
-      ]
-    },
-    {
-      "id": "羽田空港（第3）：TIAT Lounge",
-      "airportName": "東京国際",
-      "displayName": "羽田空港（第3）",
-      "lounge": "TIAT Lounge",
-      "prefecture": "東京都",
-      "category": "prioritypass",
-      "url": "https://my.prioritypass.com/lounges/japan/tokyo-haneda-intl/hnd10-tiat-lounge",
-      "aliases": [
-        "羽田"
       ]
     },
     {
