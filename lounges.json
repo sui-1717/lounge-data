@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "updatedAt": "2026-03-01T11:06:28.4371447Z",
   "source": "airports.tsx",
   "lounges": [
@@ -696,7 +696,7 @@
         "orico",
         "aeon",
         "pocket",
-        "paypay",
+        "paypay",                                           
         "dcard",
         "auPAY"
       ]
