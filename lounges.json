@@ -101,33 +101,6 @@
       ]
     },
     {
-      "id": "新千歳空港：ノースラウンジ",
-      "airportName": "新千歳",
-      "displayName": "新千歳空港",
-      "lounge": "ノースラウンジ",
-      "prefecture": "北海道",
-      "category": "card",
-      "url": "https://www.hokkaido-airports.com/rd_newchitose/ja/service/waitingroom_lounge/royal/",
-      "issuers": [
-        "jcb",
-        "diners",
-        "visa",
-        "mufg_nicos",
-        "dc",
-        "nicos",
-        "aplus",
-        "rakuten",
-        "micard",
-        "pocket",
-        "orico",
-        "paypay",
-        "dcard",
-        "auPAY",
-        "view",
-        "dragonpass"
-      ]
-    },
-    {
       "id": "函館空港：ビジネスラウンジ A Spring.",
       "airportName": "函館",
       "displayName": "函館空港",
@@ -503,6 +476,47 @@
         "priority_pass",
         "view",
         "pocket"
+      ]
+    },
+    {
+      "id": "羽田空港（第1）：FOREST LOUNGE",
+      "airportName": "東京国際",
+      "displayName": "羽田空港（第1）",
+      "lounge": "FOREST LOUNGE",
+      "prefecture": "東京都",
+      "category": "card",
+      "url": "https://tokyo-haneda.com/service/facilities/lounge.html",
+      "aliases": [
+        "羽田"
+      ],
+      "issuers": [
+        "diners",
+        "vja",
+        "amex",
+        "jcb",
+        "uc",
+        "mufg_nicos",
+        "dc",
+        "nicos",
+        "orico",
+        "auPAY",
+        "dcard",
+        "paypay",
+        "life",
+        "toyota_finance",
+        "rakuten",
+        "epos",
+        "aeon",
+        "micard",
+        "aplus",
+        "jaccs",
+        "ocs",
+        "dragonpass",
+        "saison",
+        "priority_pass",
+        "view",
+        "pocket",
+        "priority_pass"
       ]
     },
     {
